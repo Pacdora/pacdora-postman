@@ -69,4 +69,4 @@ You'll see the export task id in the reponse:
 
 ## We want to hear from you
 
-We want to hear how we can make the collection better! Don't hesitate to report [issues](https://github.com/Pacdora/pacdora-postman/issues)any bugs you encounter, suggest new features, or share other ideas you have.
+We want to hear how we can make the collection better! Don't hesitate to report here [issues](https://github.com/Pacdora/pacdora-postman/issues) for any bugs you encounter, suggest new features, or share other ideas you have.
