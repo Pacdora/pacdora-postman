@@ -1,9 +1,5 @@
 # pacdora-postman
 
-> ## Now available within Postman's API Network
->
-> The Pacdora API Collection is now hosted within [Pacdora's public workspace](https://www.postman.com/pacdoradev/workspace/pacdora-developers) in Postman. This means you no longer need to import this collection, but can instead fork from the public workspace into yours. Head over there to get started.
-
 ## Getting Started
 
 To get started you can either fork the collection from [Pacdora's public workspace](https://www.postman.com/pacdoradev/workspace/pacdora-developers) within Postman or import the collection JSON file from this repo.
@@ -73,4 +69,4 @@ You'll see the export task id in the reponse:
 
 ## We want to hear from you
 
-If you have any questions, please <a href="mailto:api@pacdora.com">contact us</a>
+We want to hear how we can make the collection better! Don't hesitate to report [issues](https://github.com/Pacdora/pacdora-postman/issues)any bugs you encounter, suggest new features, or share other ideas you have.
