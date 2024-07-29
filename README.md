@@ -2,11 +2,11 @@
 
 ## Getting Started
 
-To get started you can either fork the collection from [Pacdora's public workspace](https://www.postman.com/pacdoradev/workspace/pacdora-developers) within Postman or import the collection JSON file from this repo.
+To get started you can either fork the collection from [Pacdora's public workspace](https://www.postman.com/pacdora/workspace/pacdora-developers/overview) within Postman or import the collection JSON file from this repo.
 
 ### Fork the collection from Pacdora's public workspace
 
-From within the [Pacdora's public workspace](https://www.postman.com/pacdoradev/workspace/pacdora-developers), fork the Pacdora API collection:
+From within the [Pacdora's public workspace](https://www.postman.com/pacdora/workspace/pacdora-developers/overview), fork the Pacdora API collection:
 
 ![Fork collection](assets/postman_fork_collection.png)
 
